@@ -51,20 +51,25 @@ https://github.com/Diana12331642/StayEase
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page 1](screenshots/Home_image1.png)
+![Home Page 2](screenshots/Home_image2.png)
+![Home Page 3](screenshots/Home_image3.png)
 
 ### About Page
 
-![About Page](screenshots/about.png)
+![About Page 1](screenshots/About_image1.png)
+![About Page 2](screenshots/About_image2.png)
 
 ### Services Page
 
-![Services Page](screenshots/services.png)
+![Services Page](screenshots/Services.png)
 
 ### Hotels Page
 
-![Hotels Page](screenshots/hotels.png)
+![Hotels Page 1](screenshots/Hotels_image1.png)
+![Hotels Page 2](screenshots/Hotels_image2.png)
+![Hotels Page 3](screenshots/Hotels_image3.png)
 
 ### Contact Page
 
-![Contact Page](screenshots/contact.png)
+![Contact Page](screenshots/Contact.png)
