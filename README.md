@@ -1,4 +1,3 @@
-
 # StayEase
 
 StayEase is a hotel discovery website built using React.
@@ -8,6 +7,7 @@ StayEase is a hotel discovery website built using React.
 StayEase helps users discover hotels in different destinations and save their favourite hotels.
 
 ## Technologies Used
+
 - React.js
 - JavaScript
 - HTML
@@ -15,6 +15,7 @@ StayEase helps users discover hotels in different destinations and save their fa
 - React Router
 
 ## Website Pages
+
 - Home
 - About
 - Services
@@ -22,6 +23,7 @@ StayEase helps users discover hotels in different destinations and save their fa
 - Contact
 
 ## Main Features
+
 - Browse available hotels.
 - Search hotels by name.
 - Filter hotels by destination.
@@ -44,3 +46,25 @@ StayEase helps users discover hotels in different destinations and save their fa
 ## GitHub Repository
 
 https://github.com/Diana12331642/StayEase
+
+## Website Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### About Page
+
+![About Page](screenshots/about.png)
+
+### Services Page
+
+![Services Page](screenshots/services.png)
+
+### Hotels Page
+
+![Hotels Page](screenshots/hotels.png)
+
+### Contact Page
+
+![Contact Page](screenshots/contact.png)
